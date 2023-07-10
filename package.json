@@ -1,0 +1,15 @@
+{
+  "name": "ts_starter_template",
+  "version": "1.0.0",
+  "description": "Starter code for practice while learninig typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc app.ts && node app.js"
+  },
+  "author": "Shardul Sisodiya",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
